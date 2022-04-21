@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    background-color: pink;
+}
+#canvas1{
+    border-style: ridge;
+    background-color: white;
+}
